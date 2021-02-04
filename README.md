@@ -1,4 +1,4 @@
-# movie_search_trailers_app
+# movie_search_trailers_app (REACT)
 Its a movie search &amp; watch trailers app i made by consuming the API from omdb and youtube.
 
 check out the site here https://movie-search-trailers-app.netlify.app/
